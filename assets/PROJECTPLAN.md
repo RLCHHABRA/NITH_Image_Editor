@@ -1,10 +1,10 @@
-### Project Plan for Photy image manipulation App.
+### Project Plan for NITH image manipulation App.
 
 **Project Title**: Django Photo manipulation App.  
 
-**Start Date**: 15th Feb 2016
+**Start Date**: 15th JUN 2020
 
-**End Date**: 26th Feb 2016
+**End Date**: 15th JULY 2020
 
 #### Application Overview
 Photy lets you upload photos, apply filters, save or share images with friends via social media. Photy  organises and stores your photos online.
