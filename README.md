@@ -1,4 +1,4 @@
-# Photy
+# NITH_Image_Editor
 [![Build Status](https://travis-ci.org/andela-amwaleh/Photy.svg?branch=feature%2Ftest)](https://travis-ci.org/andela-amwaleh/Photy)
 [![Coverage Status](https://coveralls.io/repos/github/andela-amwaleh/Photy/badge.svg?branch=feature%2Ftest)](https://coveralls.io/github/andela-amwaleh/Photy?branch=feature%2Ftest)
 [![Code Issues](https://www.quantifiedcode.com/api/v1/project/0a633c70e8c044ef914a7cbaaf743120/badge.svg)](https://www.quantifiedcode.com/app/project/0a633c70e8c044ef914a7cbaaf743120)
