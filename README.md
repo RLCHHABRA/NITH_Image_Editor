@@ -24,7 +24,7 @@ To install and run this application you need to have python installed on your sy
 To install the build locally 
 ```
 $ git clone git@github.com:RLCHHABRA/NITH_Image_Editor.git
-$ cd photy
+$ cd NITH_Image_Editor/
 $ pip install -r requirements.txt
 ```
 
